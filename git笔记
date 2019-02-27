@@ -1,0 +1,6 @@
+git锁定后
+错误：  fatal: Unable to create .git/index.lock': File exists.
+解决：$ rm -f ./.git/index.lock
+webstorm git的使用  http://www.cnblogs.com/jinguangguo/p/4868152.html?utm_source=tuicool&utm_medium=referral
+
+https://note.youdao.com/web/#/file/D51D830F48694143BB436DC8467CB806/markdown/252B5201AF2741698678BD656D163E78/
